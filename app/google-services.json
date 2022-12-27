@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "35598752410",
+    "project_id": "hyperion-244001",
+    "storage_bucket": "hyperion-244001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35598752410:android:f1b6dcd5f77d35620fdd23",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.facerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35598752410-88ppc6s1cpcu98kct8acre4c1orc28l4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVHBMO7SXOiYxzqWWlyugQzXAfUEbrXs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35598752410-88ppc6s1cpcu98kct8acre4c1orc28l4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
